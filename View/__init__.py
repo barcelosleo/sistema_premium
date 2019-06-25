@@ -1,0 +1,1 @@
+from .MainWindowView import Ui_MainWindow as MainWindowView
