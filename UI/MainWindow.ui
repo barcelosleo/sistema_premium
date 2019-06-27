@@ -13,6 +13,10 @@
   <property name="windowTitle">
    <string>Sistema Premium</string>
   </property>
+  <property name="windowIcon">
+   <iconset resource="../Resources/resources.qrc">
+    <normaloff>:/icons/icons/246x0w.jpg</normaloff>:/icons/icons/246x0w.jpg</iconset>
+  </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QTableWidget" name="tableWidget">
     <property name="geometry">
@@ -95,7 +99,7 @@
      </property>
     </column>
    </widget>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>40</x>
